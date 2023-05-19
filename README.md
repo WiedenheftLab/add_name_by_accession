@@ -14,6 +14,7 @@ Syntax:
         add_name_by_accession -i demo.fasta -l demo_sub_list.txt -o demo_sub_list.fasta
 
 seq_fetch dependencies:
+	
 	Bio module and SeqIO available in this package      refer to https://biopython.org/wiki/Download
 	tqdm                                                refer to https://pypi.org/project/tqdm/
 	
